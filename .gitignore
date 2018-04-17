@@ -1,0 +1,5 @@
+
+testfiles
+
+# Bolt database files
+*.db
